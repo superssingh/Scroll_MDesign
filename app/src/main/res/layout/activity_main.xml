@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.santossingh.materialdesign.MainActivity">
+
+    <Button
+        android:id="@+id/button_scroll1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/scrollexample1" />
+
+    <Button
+        android:id="@+id/button_scroll2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/scrollexample2" />
+
+    <Button
+        android:id="@+id/button_scroll3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/scrollexample3" />
+
+    <Button
+        android:id="@+id/button_scroll4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/scrollexample4" />
+
+    <Button
+        android:id="@+id/button_scroll5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/scrollexample5" />
+
+</LinearLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transitionManager xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--<transitionSet>-->
+    <!--<changeBounds android:duration="250">-->
+    <!--<targets>-->
+    <!--<target android:targetId="@+id/image"/>-->
+    <!--</targets>-->
+    <!--</changeBounds>-->
+
+    <!--<fade android:startDelay="300" android:duration="250">-->
+    <!--<targets>-->
+    <!--<target android:targetId="@+id/description"/>-->
+    <!--<target android:targetId="@+id/close_button"/>-->
+    <!--</targets>-->
+    <!--</fade>-->
+    <!--</transitionSet>-->
+
+</transitionManager>
